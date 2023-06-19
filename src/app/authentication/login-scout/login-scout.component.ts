@@ -1,3 +1,4 @@
+import { Router } from '@angular/router';
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,5 +7,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./login-scout.component.scss']
 })
 export class LoginScoutComponent {
+constructor(private router: Router) {
+}
+btnfunc_13963(){
+	this.router.navigate(['/core/createschedule']);
+}
 
+btnfunc_13959(){
+	this.router.navigate(['/modules/microsoft']);
+}
 }
