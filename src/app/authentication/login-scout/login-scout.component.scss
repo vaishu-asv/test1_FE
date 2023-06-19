@@ -63,13 +63,38 @@ left: 7.81365966796875px;
 font-size: 10.0px; color: rgba(46, 79, 139, 1.0); font-family: Poppins; font-weight: 400;
 }
 
-.button_re_modulesmicrosoft-310-13959{
-position:absolute ;width: 381.46636962890625px; height: 44.1453857421875px;  background-color: rgba(46,79,139,1.0);top:222px; left: 0px;border-radius: 2.0px;background:''}
+.vector-310-13962{
+position: relative; width: 17.0px; height: 19.0}
 
-.button_re_corecreateschedule-310-13963{
-position:absolute ;width: 381.46636962890625px; height: 42.0px;  background-color: rgba(0,184,149,1.0);top:170px; left: 0px;border-radius: 2.0px;background:''}
+.btn-signinwithmicrosoft-13959{
+position: absolute;
+ display: flex;
+justify-content: center;
+align-items: center;
+left: 0.13836669921875px;
+ top: 222.0px;
+ width: 381.46636962890625px;
+ height: 44.1453857421875px;
+border-radius: 2.0px; background-color: rgba(46, 79, 139, 1.0);
+ cursor: pointer;
+font-size: 16.0px; color: rgba(255, 255, 255, 1.0); font-family: Hind Siliguri; text-transform: uppercase; font-weight: 500;
+}
 
-.text-310-13966{
+.btn-signin-13963{
+position: absolute;
+ display: flex;
+justify-content: center;
+align-items: center;
+left: 0.12078857421875px;
+ top: 170.31787109375px;
+ width: 381.46636962890625px;
+ height: 42.0px;
+border-radius: 2.0px; background-color: rgba(0, 184, 149, 1.0);
+ cursor: pointer;
+font-size: 16.0px; color: rgba(255, 255, 255, 1.0); font-family: Hind Siliguri; text-transform: uppercase; font-weight: 500;
+}
+
+.text-typehere-13966{
 position: absolute;
 left: 0.120819091796875px;
  top: 89.9007568359375px;
@@ -77,13 +102,29 @@ left: 0.120819091796875px;
  height: 30px;
 border-top-style: hidden;border-right-style: hidden;border-left-style: hidden;}
 
-.text-310-13971{
+.text-password-13966{
+position: absolute;
+left: 0.120819091796875px;
+ top: 89.9007568359375px;
+ width: 369.7062072753906px;
+ height: 30px;
+font-size: 10.0px; color: rgba(46, 79, 139, 1.0); font-family: Poppins; font-weight: 400;border-top-style: hidden;border-right-style: hidden;border-left-style: hidden;}
+
+.text-typehere-13971{
 position: absolute;
 left: 0.120819091796875px;
  top: 29.8370361328125px;
  width: 369.7062072753906px;
  height: 30px;
 border-top-style: hidden;border-right-style: hidden;border-left-style: hidden;}
+
+.text-username-13971{
+position: absolute;
+left: 0.120819091796875px;
+ top: 29.8370361328125px;
+ width: 369.7062072753906px;
+ height: 30px;
+font-size: 10.0px; color: rgba(46, 79, 139, 1.0); font-family: Poppins; font-weight: 400;border-top-style: hidden;border-right-style: hidden;border-left-style: hidden;}
 
 .text-310-13976{
 position: absolute;
